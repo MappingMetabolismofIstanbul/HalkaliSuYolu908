@@ -309,7 +309,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/pH2QMvs/halkal-su-yolu-pembesiz.jpg',                          
+            image: 'https://i.ibb.co/LztMBJmT/MEF-AAP-027-BAP-2025-08-09-21-29-41.png',                          
             description: '' ,
             location: {
                 center: [28.983,41.011],
