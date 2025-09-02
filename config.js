@@ -116,7 +116,7 @@ var config = {
         },
         {
             id: 'sixth-chapter',
-            alignment: 'left',
+            alignment: 'centered',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/Jw0kFbZF/MEF-AAP-027-BAP-2025-08-08-22-20-48.png',
